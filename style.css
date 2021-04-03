@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#character{
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 50%;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    height: 40px;
+    width: 40px;
+}
